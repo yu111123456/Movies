@@ -1,0 +1,22 @@
+<!--pages/posts/post.wxml-->
+<import src="post-item/post-item-template.wxml"/>
+<!--<import>是引用模板-->
+<view>
+   <swiper catchtap="onSwiperTap" vertical="{{false}}"
+   indicator-dots="true" autoplay="true"  interval="5000">
+      <swiper-item>
+         <image catchtap="onSwiperItemTap" src="/images/wx.png" data-postId="3"></image>
+      </swiper-item>
+      <swiper-item>
+         <image catchtap="onSwiperItemTap" src="/images/vr.png" data-postId="4"></image>
+      </swiper-item>
+      <swiper-item>
+         <image catchtap="onSwiperItemTap" src="/images/iqiyi.png" data-postId="5"></image>
+      </swiper-item>
+   </swiper>
+   <block wx:for = "{{posts_key}}" wx:key="xxx" wx:for-item="item">
+   <view catchtap="onPostTap" data-postId="{{item.postId}}">
+     <template is="postItem" data="{{...item}}" /><!--is代表的是模板里的name属性值;...item是posts-data.js里的一个子元素{}-->
+   </view>
+    </block>
+</view>

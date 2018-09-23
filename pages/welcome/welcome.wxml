@@ -1,0 +1,9 @@
+
+<view class="container">
+  <image class="avatar" src="/images/avatar/1.png"></image>
+  <text class="motto">你好,九月</text>
+  <view class="journey-container" bindtap="onTap">
+  <!--bindtap="onTap"点击实现跳转功能，onTap在js文件中找-->
+     <text class="journey">电影小程序</text>
+  </view>
+</view>
