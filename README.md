@@ -24,5 +24,5 @@
 3.详情 - 项目设置 - 不勾选-> 关闭上传代码时样式自动补全。重要：某些情况下漏掉此项也会运行报错。
 4.详情 - 项目设置 - 不勾选-> 关闭代码压缩上传。重要：开启后，会导致真机计算，props.sync等等属性失效。
 
-! [movie ] (https://github.com/yu111123456/Movies/raw/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/01.PNG)；
+! [movie ] (https://raw.githubusercontent.com/yu111123456/Movies/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/01.PNG)；
 
