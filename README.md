@@ -25,4 +25,12 @@
 4.详情 - 项目设置 - 不勾选-> 关闭代码压缩上传。重要：开启后，会导致真机计算，props.sync等等属性失效。
 
 ![Image text](https://raw.githubusercontent.com/yu111123456/Movies/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/01.PNG)；
-
+![Image text](https://raw.githubusercontent.com/yu111123456/Movies/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/02.PNG)；
+![Image text](https://raw.githubusercontent.com/yu111123456/Movies/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/04.PNG)；
+![Image text](https://raw.githubusercontent.com/yu111123456/Movies/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/05.PNG)；
+![Image text](https://raw.githubusercontent.com/yu111123456/Movies/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/06.PNG)；
+![Image text](https://raw.githubusercontent.com/yu111123456/Movies/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/07.PNG)；
+![Image text](https://raw.githubusercontent.com/yu111123456/Movies/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/08.PNG)；
+![Image text](https://raw.githubusercontent.com/yu111123456/Movies/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/09.PNG)；
+![Image text](https://raw.githubusercontent.com/yu111123456/Movies/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/010.PNG)；
+![Image text](https://raw.githubusercontent.com/yu111123456/Movies/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE/011.PNG)；
